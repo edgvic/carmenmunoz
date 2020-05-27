@@ -1,0 +1,22 @@
+body {
+  font-family: EB Garamond
+}
+
+#navbar {
+  padding: 0;
+
+}
+
+#navbar li {
+  display: inline;
+}
+
+#button li a {
+ font-family: EB Garamond;
+ font-size: 11px;
+ text-decoration: none;
+ float: left;
+ padding: 10px;
+ background-color: #fed7fa;
+ color: #fff;
+ }
