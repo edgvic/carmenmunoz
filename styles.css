@@ -4,8 +4,8 @@
 body {
   font-family: EB Garamond !important;
   padding-bottom: 70px;
+  overflow-x:hidden;
 }
-
 
 /* Navbar */
 
